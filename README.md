@@ -1,4 +1,14 @@
-## Installation
+## 🛡 Installation
+
+
+## 🛠 How To Insatll Node.js & Module
+
+If there is a faulty module, install that module as well.
+
+npm insatll
+npm i ffmpeg-static
+
+
 
 Let's start downloading.
 Go to the folder `config` then the file `config.json`.
